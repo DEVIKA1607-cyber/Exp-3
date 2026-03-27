@@ -5,53 +5,52 @@
 
 # AIM:
 
-To develop a Railway Reservation System that enables users to book, cancel, and check the status of train tickets, while managing train schedules, seat availability, and passenger records efficiently.
+To develop the Online Ticket Reservation System using Star UML tool.
+
 
 # SRS (Procedure):
 
-Create the following diagrams in StarUML:
+Step 1 - Open StarUML and start a new project.
 
-1. Activity Diagram
+Step 2 - Name the project based on the system (e.g., ATM, Library).
 
-2. Class Diagram
+Step 3 - Identify actors and use cases from the system requirements.
 
-3. Communication Diagram
+Step 4 - Choose and draw diagrams (Use Case, Class, Sequence, etc.).
 
-4. Package Diagram
+Step 5 - Add elements using the toolbox and connect them properly.
 
-5. Sequence Diagram
+Step 6 - Label all components clearly and meaningfully.
 
-6. Use Case Diagram
+Step 7 - Save and export diagrams as images or PDF.
 
 
 # DIAGRAMS:
-## ACTIVITY DIAGRAM
 
+# USERCASE DIAGRAM:
 
-![ActivityDiagram](https://github.com/user-attachments/assets/6a25017d-e2f6-451f-b9d4-5d646974d59e)
+<img width="1105" height="850" alt="Screenshot 2025-11-06 151236" src="https://github.com/user-attachments/assets/2df7320b-7b03-4c09-a58e-dd3c07ea9bba" />
 
-## CLASS DIAGRAM
+# CLASS DIAGRAM:
 
-![ClassDiagram](https://github.com/user-attachments/assets/a9c81a35-4a8b-483a-a4d8-f7048f451cf1)
+<img width="1142" height="807" alt="Screenshot 2025-11-06 151312" src="https://github.com/user-attachments/assets/a97073f6-ecd2-4531-a5e6-571d06d6c601" />
 
-## COMMUNICATION DIAGRAM
+# SEQUENCE DIAGRAM:
 
-![image](https://github.com/user-attachments/assets/fb3b5caf-30f9-4583-9b94-ce4ff18dc600)
+<img width="1172" height="802" alt="Screenshot 2025-11-06 151403" src="https://github.com/user-attachments/assets/600148bf-2a0e-49f1-a673-88e140cdcf51" />
 
-## PACKAGE DIAGRAM
+# ACTIVITY DIAGRAM:
 
-![PackageDiagram](https://github.com/user-attachments/assets/08ac79fd-b571-4b05-bed2-08e0159815f4)
+<img width="693" height="839" alt="Screenshot 2025-11-06 151446" src="https://github.com/user-attachments/assets/f9196368-1f67-4d68-aa03-b5da6861e9f4" />
 
-## SEQUENCE DIAGRAM
+# PACKAGE DIAGRAM:
 
-![image](https://github.com/user-attachments/assets/de30c02b-110b-4d02-8ba9-d79176685983)
+<img width="1112" height="603" alt="Screenshot 2025-11-06 151549" src="https://github.com/user-attachments/assets/c3957eaf-05cd-4372-956f-021ec24f2892" />
 
-## USECASE DIAGRAM
+# COMMUNICATION DIAGRAM:
 
-![UseCaseDiagram](https://github.com/user-attachments/assets/61868321-ae1f-41c0-bb07-80d48ac7e9ea)
+<img width="1108" height="708" alt="Screenshot 2025-11-06 151529" src="https://github.com/user-attachments/assets/46e12d67-9de4-436f-b8c5-d2028b0321d0" />
 
 # RESULT:
 
-The system successfully handles ticket bookings, cancellations, and status inquiries, ensuring accurate seat allocation and improving convenience for passengers.
-
-
+Thus, the Online Ticket Reservation System was created successfully.
